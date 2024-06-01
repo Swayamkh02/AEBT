@@ -73,9 +73,11 @@ The AEBT tracks the time taken for sorting and searching operations. You can vis
 ### Example Plots
 
 - **Sorting Data:**
+ 
     ![Sorting Data](sort_plot.png)
 
 - **Searching Data:**
+ 
     ![Searching Data](search_plot.png)
 
 ## Contributing
