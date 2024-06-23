@@ -100,7 +100,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## Contributors
 
 - Swayam Khandelwal ([@Swayamkh02](https://github.com/Swayamkh02))
-- Vijaykumar Mamadapur ([@contributor1](https://github.com/contributor1))
+- Vijaykumar Mamadapur ([@VijayakumarMamadapur](https://github.com/VijayakumarMamadapur))
 - Roopa L S ([@Roopa4112](https://github.com/Roopa4112))
 
 ---
